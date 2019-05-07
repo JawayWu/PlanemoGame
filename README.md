@@ -1,4 +1,4 @@
-# PlanemoGame
+# Planemo2: Revenge of PlanemoXD
 
 
 Jenny Chen
