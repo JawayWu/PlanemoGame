@@ -1,0 +1,5 @@
+﻿[03:23:35] Suit status critical.                                   
+[03:23:47] Ship hull compromised.                                   
+[03:23:49] Ship control module compromised.                                   
+[03:23:52] Reconstruction required.                                   
+[03:23:55] Energy depleted. Powering off.​​​​​​.​​​​​​.

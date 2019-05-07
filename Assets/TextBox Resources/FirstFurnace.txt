@@ -1,0 +1,1 @@
+Tool can be used to refine ores into metals.

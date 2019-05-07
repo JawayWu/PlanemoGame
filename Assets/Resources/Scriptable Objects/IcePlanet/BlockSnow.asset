@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4227a7d7d05147b4d8ace2c5b9511f25, type: 3}
+  m_Name: BlockSnow
+  m_EditorClassIdentifier: 
+  sliderData:
+  - 0
+  - 1
+  - 0
+  - 0.00000002073205
+  - 0
+  - 0
+  - 0
+  - 0
+  itemName: Snow
+  itemTile: {fileID: 11400000, guid: 47075bfc2a3aa234ebd8502f800bad96, type: 2}
+  itemType: 34
+  gridSprite: {fileID: 21300000, guid: 8d05482847a2f824bb4bc61503984774, type: 3}
+  breakDuration: 0.25
+  lightSource: 0

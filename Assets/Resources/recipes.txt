@@ -1,0 +1,30 @@
+Log/ /Wood/2
+Wood/ /Stick/2
+Stick/Coal/Torch/2
+Coal/Stick/Torch/2
+Coal/ /Stick/ /Torch/2
+ /Coal/ /Stick/Torch/2
+Log/Log/Workbench/1
+ / /Log/Log/Workbench/1
+Stone/Stone/Coal/Coal/Furnace/1
+Wood/Wood/Wood/Wood/Chest/1
+
+Steel/Steel/Steel/Steel/Steel Plate/1
+Steel/ /Steel/Steel/Wing/1
+ /Steel/Steel/Steel/Wing/1
+Iron/ / /Iron/Blade/1
+ /Iron/Iron/ /Blade/1
+Steel/ / /Steel/Blade/1
+ /Steel/Steel/ /Blade/1
+Blade/Blade/Blade/Blade/Turbine/1
+Wire/Turbine/Turbine/Wire/Engine/1
+Turbine/Wire/Wire/Turbine/Engine/1
+Copper/Copper/Wire/4
+
+----------------------------------------------------------
+Everything under this line is ignored.
+Feel free to put crafting ideas in the area below.
+
+Iron/Iron/Coal/Coal/Fuel Storage/1
+Copper/Wire/Wire/Copper/Control Module/1
+Wire/Copper/Copper/Wire/Control Module/1
